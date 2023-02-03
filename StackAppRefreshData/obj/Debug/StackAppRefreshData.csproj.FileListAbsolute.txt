@@ -1,0 +1,8 @@
+C:\Users\Медиацентр\source\repos\StackAppRefreshData\StackAppRefreshData\bin\Debug\StackAppRefreshData.exe.config
+C:\Users\Медиацентр\source\repos\StackAppRefreshData\StackAppRefreshData\bin\Debug\StackAppRefreshData.exe
+C:\Users\Медиацентр\source\repos\StackAppRefreshData\StackAppRefreshData\bin\Debug\StackAppRefreshData.pdb
+C:\Users\Медиацентр\source\repos\StackAppRefreshData\StackAppRefreshData\obj\Debug\StackAppRefreshData.csproj.AssemblyReference.cache
+C:\Users\Медиацентр\source\repos\StackAppRefreshData\StackAppRefreshData\obj\Debug\StackAppRefreshData.csproj.SuggestedBindingRedirects.cache
+C:\Users\Медиацентр\source\repos\StackAppRefreshData\StackAppRefreshData\obj\Debug\StackAppRefreshData.csproj.CoreCompileInputs.cache
+C:\Users\Медиацентр\source\repos\StackAppRefreshData\StackAppRefreshData\obj\Debug\StackAppRefreshData.exe
+C:\Users\Медиацентр\source\repos\StackAppRefreshData\StackAppRefreshData\obj\Debug\StackAppRefreshData.pdb
